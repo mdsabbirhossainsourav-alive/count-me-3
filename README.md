@@ -16,9 +16,12 @@ Output the count of capital alphabets first, then the count of small alphabets t
 ## Sample Input 0
 
 2
+
 theFox25IsBrave
+
 ILoveYou100TimesAndSay2Also
 ## Sample Output 0
 
 3 10 2
+
 7 16 4
